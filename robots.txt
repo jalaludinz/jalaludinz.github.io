@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://jalaludinz.github.io/sitemap/sitemap_index.txt
